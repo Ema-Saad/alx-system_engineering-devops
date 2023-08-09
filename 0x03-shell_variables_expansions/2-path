@@ -1,2 +1,2 @@
-0x03-shell_variables_expansions
+#!/bin/bash
 export PATH=$PATH:/action
